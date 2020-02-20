@@ -1,0 +1,65 @@
+c:\users\administrador\documents\visual studio 2012\Projects\Serpientes_Escaleras\Serpientes_Escaleras\bin\Debug\Serpientes_Escaleras.exe.config
+c:\users\administrador\documents\visual studio 2012\Projects\Serpientes_Escaleras\Serpientes_Escaleras\bin\Debug\Serpientes_Escaleras.exe
+c:\users\administrador\documents\visual studio 2012\Projects\Serpientes_Escaleras\Serpientes_Escaleras\bin\Debug\Serpientes_Escaleras.pdb
+c:\users\administrador\documents\visual studio 2012\Projects\Serpientes_Escaleras\Serpientes_Escaleras\obj\Debug\Serpientes_Escaleras.csprojResolveAssemblyReference.cache
+c:\users\administrador\documents\visual studio 2012\Projects\Serpientes_Escaleras\Serpientes_Escaleras\obj\Debug\Serpientes_Escaleras.Form1.resources
+c:\users\administrador\documents\visual studio 2012\Projects\Serpientes_Escaleras\Serpientes_Escaleras\obj\Debug\Serpientes_Escaleras.Properties.Resources.resources
+c:\users\administrador\documents\visual studio 2012\Projects\Serpientes_Escaleras\Serpientes_Escaleras\obj\Debug\Serpientes_Escaleras.csproj.GenerateResource.Cache
+c:\users\administrador\documents\visual studio 2012\Projects\Serpientes_Escaleras\Serpientes_Escaleras\obj\Debug\Serpientes_Escaleras.exe
+c:\users\administrador\documents\visual studio 2012\Projects\Serpientes_Escaleras\Serpientes_Escaleras\obj\Debug\Serpientes_Escaleras.pdb
+C:\Users\Administrador\documents\visual studio 2012\Projects\Serpientes_Escaleras\Serpientes_Escaleras\obj\Debug\Serpientes_Escaleras.principal.resources
+C:\Users\Administrador\documents\visual studio 2012\Projects\Serpientes_Escaleras\Serpientes_Escaleras\obj\Debug\Serpientes_Escaleras.jugadores.resources
+C:\Users\ABITA-COMPUS\Downloads\Serpientes_Escaleras (1)\Serpientes_Escaleras\Serpientes_Escaleras\obj\Debug\Serpientes_Escaleras.csprojResolveAssemblyReference.cache
+C:\Users\ABITA-COMPUS\Downloads\Serpientes_Escaleras (1)\Serpientes_Escaleras\Serpientes_Escaleras\obj\Debug\Serpientes_Escaleras.Form1.resources
+C:\Users\ABITA-COMPUS\Downloads\Serpientes_Escaleras (1)\Serpientes_Escaleras\Serpientes_Escaleras\obj\Debug\Serpientes_Escaleras.jugadores.resources
+C:\Users\ABITA-COMPUS\Downloads\Serpientes_Escaleras (1)\Serpientes_Escaleras\Serpientes_Escaleras\obj\Debug\Serpientes_Escaleras.principal.resources
+C:\Users\ABITA-COMPUS\Downloads\Serpientes_Escaleras (1)\Serpientes_Escaleras\Serpientes_Escaleras\obj\Debug\Serpientes_Escaleras.Properties.Resources.resources
+C:\Users\ABITA-COMPUS\Downloads\Serpientes_Escaleras (1)\Serpientes_Escaleras\Serpientes_Escaleras\obj\Debug\Serpientes_Escaleras.csproj.GenerateResource.Cache
+C:\Users\ABITA-COMPUS\Downloads\Serpientes_Escaleras (1)\Serpientes_Escaleras\Serpientes_Escaleras\obj\Debug\Serpientes_Escaleras.csproj.CoreCompileInputs.cache
+C:\Users\ABITA-COMPUS\Downloads\Serpientes_Escaleras (1)\Serpientes_Escaleras\Serpientes_Escaleras\obj\Debug\Serpientes_Escaleras.exe
+C:\Users\ABITA-COMPUS\Downloads\Serpientes_Escaleras (1)\Serpientes_Escaleras\Serpientes_Escaleras\bin\Debug\Serpientes_Escaleras.exe.config
+C:\Users\ABITA-COMPUS\Downloads\Serpientes_Escaleras (1)\Serpientes_Escaleras\Serpientes_Escaleras\bin\Debug\Serpientes_Escaleras.exe
+C:\Users\ABITA-COMPUS\Downloads\Serpientes_Escaleras (1)\Serpientes_Escaleras\Serpientes_Escaleras\bin\Debug\Serpientes_Escaleras.pdb
+C:\Users\ABITA-COMPUS\Downloads\Serpientes_Escaleras (1)\Serpientes_Escaleras\Serpientes_Escaleras\obj\Debug\Serpientes_Escaleras.pdb
+C:\Users\ABITA-COMPUS\Downloads\Serpientes_Escaleras (1)\Serpientes_Escaleras\Serpientes_Escaleras\obj\Debug\Serpientes_Escaleras.carga.resources
+C:\Users\ABITA-COMPUS\Downloads\Serpientes_Escaleras (1)\Serpientes_Escaleras\Serpientes_Escaleras\obj\Debug\Serpientes_Escaleras.basura.resources
+C:\Users\ABITA-COMPUS\Downloads\Serpientes_Escaleras punto rest\Serpientes_Escaleras\Serpientes_Escaleras\bin\Debug\Serpientes_Escaleras.exe.config
+C:\Users\ABITA-COMPUS\Downloads\Serpientes_Escaleras punto rest\Serpientes_Escaleras\Serpientes_Escaleras\bin\Debug\Serpientes_Escaleras.exe
+C:\Users\ABITA-COMPUS\Downloads\Serpientes_Escaleras punto rest\Serpientes_Escaleras\Serpientes_Escaleras\bin\Debug\Serpientes_Escaleras.pdb
+C:\Users\ABITA-COMPUS\Downloads\Serpientes_Escaleras punto rest\Serpientes_Escaleras\Serpientes_Escaleras\obj\Debug\Serpientes_Escaleras.csprojResolveAssemblyReference.cache
+C:\Users\ABITA-COMPUS\Downloads\Serpientes_Escaleras punto rest\Serpientes_Escaleras\Serpientes_Escaleras\obj\Debug\Serpientes_Escaleras.basura.resources
+C:\Users\ABITA-COMPUS\Downloads\Serpientes_Escaleras punto rest\Serpientes_Escaleras\Serpientes_Escaleras\obj\Debug\Serpientes_Escaleras.carga.resources
+C:\Users\ABITA-COMPUS\Downloads\Serpientes_Escaleras punto rest\Serpientes_Escaleras\Serpientes_Escaleras\obj\Debug\Serpientes_Escaleras.Form1.resources
+C:\Users\ABITA-COMPUS\Downloads\Serpientes_Escaleras punto rest\Serpientes_Escaleras\Serpientes_Escaleras\obj\Debug\Serpientes_Escaleras.jugadores.resources
+C:\Users\ABITA-COMPUS\Downloads\Serpientes_Escaleras punto rest\Serpientes_Escaleras\Serpientes_Escaleras\obj\Debug\Serpientes_Escaleras.principal.resources
+C:\Users\ABITA-COMPUS\Downloads\Serpientes_Escaleras punto rest\Serpientes_Escaleras\Serpientes_Escaleras\obj\Debug\Serpientes_Escaleras.Properties.Resources.resources
+C:\Users\ABITA-COMPUS\Downloads\Serpientes_Escaleras punto rest\Serpientes_Escaleras\Serpientes_Escaleras\obj\Debug\Serpientes_Escaleras.csproj.GenerateResource.Cache
+C:\Users\ABITA-COMPUS\Downloads\Serpientes_Escaleras punto rest\Serpientes_Escaleras\Serpientes_Escaleras\obj\Debug\Serpientes_Escaleras.csproj.CoreCompileInputs.cache
+C:\Users\ABITA-COMPUS\Downloads\Serpientes_Escaleras punto rest\Serpientes_Escaleras\Serpientes_Escaleras\obj\Debug\Serpientes_Escaleras.exe
+C:\Users\ABITA-COMPUS\Downloads\Serpientes_Escaleras punto rest\Serpientes_Escaleras\Serpientes_Escaleras\obj\Debug\Serpientes_Escaleras.pdb
+C:\Users\Administrador\Downloads\Serpientes_Escaleras punto rest\Serpientes_Escaleras\Serpientes_Escaleras\bin\Debug\Serpientes_Escaleras.exe.config
+C:\Users\Administrador\Downloads\Serpientes_Escaleras punto rest\Serpientes_Escaleras\Serpientes_Escaleras\obj\Debug\Serpientes_Escaleras.exe
+C:\Users\Administrador\Downloads\Serpientes_Escaleras punto rest\Serpientes_Escaleras\Serpientes_Escaleras\obj\Debug\Serpientes_Escaleras.pdb
+C:\Users\Administrador\Downloads\Serpientes_Escaleras punto rest\Serpientes_Escaleras\Serpientes_Escaleras\bin\Debug\Serpientes_Escaleras.exe
+C:\Users\Administrador\Downloads\Serpientes_Escaleras punto rest\Serpientes_Escaleras\Serpientes_Escaleras\bin\Debug\Serpientes_Escaleras.pdb
+C:\Users\Administrador\Downloads\Serpientes_Escaleras punto rest\Serpientes_Escaleras\Serpientes_Escaleras\obj\Debug\Serpientes_Escaleras.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Downloads\Serpientes_Escaleras punto rest\Serpientes_Escaleras\Serpientes_Escaleras\obj\Debug\Serpientes_Escaleras.carga.resources
+C:\Users\Administrador\Downloads\Serpientes_Escaleras punto rest\Serpientes_Escaleras\Serpientes_Escaleras\obj\Debug\Serpientes_Escaleras.Form1.resources
+C:\Users\Administrador\Downloads\Serpientes_Escaleras punto rest\Serpientes_Escaleras\Serpientes_Escaleras\obj\Debug\Serpientes_Escaleras.jugadores.resources
+C:\Users\Administrador\Downloads\Serpientes_Escaleras punto rest\Serpientes_Escaleras\Serpientes_Escaleras\obj\Debug\Serpientes_Escaleras.principal.resources
+C:\Users\Administrador\Downloads\Serpientes_Escaleras punto rest\Serpientes_Escaleras\Serpientes_Escaleras\obj\Debug\Serpientes_Escaleras.Properties.Resources.resources
+C:\Users\Administrador\Downloads\Serpientes_Escaleras punto rest\Serpientes_Escaleras\Serpientes_Escaleras\obj\Debug\Serpientes_Escaleras.csproj.GenerateResource.Cache
+C:\Users\EdwinITI\Downloads\Serpientes_Escaleras\Serpientes_Escaleras\Serpientes_Escaleras\bin\Debug\Serpientes_Escaleras.exe.config
+C:\Users\EdwinITI\Downloads\Serpientes_Escaleras\Serpientes_Escaleras\Serpientes_Escaleras\bin\Debug\Serpientes_Escaleras.exe
+C:\Users\EdwinITI\Downloads\Serpientes_Escaleras\Serpientes_Escaleras\Serpientes_Escaleras\bin\Debug\Serpientes_Escaleras.pdb
+C:\Users\EdwinITI\Downloads\Serpientes_Escaleras\Serpientes_Escaleras\Serpientes_Escaleras\obj\Debug\Serpientes_Escaleras.csprojResolveAssemblyReference.cache
+C:\Users\EdwinITI\Downloads\Serpientes_Escaleras\Serpientes_Escaleras\Serpientes_Escaleras\obj\Debug\Serpientes_Escaleras.carga.resources
+C:\Users\EdwinITI\Downloads\Serpientes_Escaleras\Serpientes_Escaleras\Serpientes_Escaleras\obj\Debug\Serpientes_Escaleras.Form1.resources
+C:\Users\EdwinITI\Downloads\Serpientes_Escaleras\Serpientes_Escaleras\Serpientes_Escaleras\obj\Debug\Serpientes_Escaleras.jugadores.resources
+C:\Users\EdwinITI\Downloads\Serpientes_Escaleras\Serpientes_Escaleras\Serpientes_Escaleras\obj\Debug\Serpientes_Escaleras.principal.resources
+C:\Users\EdwinITI\Downloads\Serpientes_Escaleras\Serpientes_Escaleras\Serpientes_Escaleras\obj\Debug\Serpientes_Escaleras.Properties.Resources.resources
+C:\Users\EdwinITI\Downloads\Serpientes_Escaleras\Serpientes_Escaleras\Serpientes_Escaleras\obj\Debug\Serpientes_Escaleras.csproj.GenerateResource.Cache
+C:\Users\EdwinITI\Downloads\Serpientes_Escaleras\Serpientes_Escaleras\Serpientes_Escaleras\obj\Debug\Serpientes_Escaleras.csproj.CoreCompileInputs.cache
+C:\Users\EdwinITI\Downloads\Serpientes_Escaleras\Serpientes_Escaleras\Serpientes_Escaleras\obj\Debug\Serpientes_Escaleras.exe
+C:\Users\EdwinITI\Downloads\Serpientes_Escaleras\Serpientes_Escaleras\Serpientes_Escaleras\obj\Debug\Serpientes_Escaleras.pdb
+C:\Users\EdwinITI\Downloads\Serpientes_Escaleras\Serpientes_Escaleras\Serpientes_Escaleras\obj\Debug\Serpientes_Escaleras.Recorrido.resources
